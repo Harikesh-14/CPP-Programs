@@ -12,4 +12,5 @@ int main(){
     cout<<"Enter the number: ";
     cin>>num;
     cout<<sum(num);
+    return 0;
 }
